@@ -3,3 +3,4 @@ A simple program that lets you scan QR from your Desktop (no need to take your m
 
 
 THE FILE TO RUN THIS IS INSIDE THE TAG you will be able to see v1.0 there download the .exe file and it will run automatically 
+ (go  to Files -> main -> tags ) -- will be visible on the left side of the github 
